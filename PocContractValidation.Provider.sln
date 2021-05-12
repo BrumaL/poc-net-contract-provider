@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocContractValidation.Provider", "PocContractValidation.Provider\PocContractValidation.Provider.csproj", "{FB5C2FCA-2E95-4CDF-AFF7-0104FF2177F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocContractValidation.Provider.Tests", "PocContractValidation.Provider.Tests\PocContractValidation.Provider.Tests.csproj", "{099076EF-FFC9-476E-A5E0-D8C863AFD658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB5C2FCA-2E95-4CDF-AFF7-0104FF2177F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5C2FCA-2E95-4CDF-AFF7-0104FF2177F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5C2FCA-2E95-4CDF-AFF7-0104FF2177F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5C2FCA-2E95-4CDF-AFF7-0104FF2177F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{099076EF-FFC9-476E-A5E0-D8C863AFD658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099076EF-FFC9-476E-A5E0-D8C863AFD658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099076EF-FFC9-476E-A5E0-D8C863AFD658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099076EF-FFC9-476E-A5E0-D8C863AFD658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63AFC9FE-FD29-4466-8969-7B8B499D2D57}
+	EndGlobalSection
+EndGlobal
